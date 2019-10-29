@@ -1,0 +1,4 @@
+# git ignore file
+*.vs
+**/LpSync/bin
+**/LpSync/obj
